@@ -19,7 +19,7 @@ This project was developed at Eindhoven University of Technology as part of the 
 
 # Device Overview
 
-## Wearable Design (Figure 1)
+## Wearable Design
 
 ![Wearable Device](images/figure1_device.png)
 
@@ -36,7 +36,7 @@ The physical interface was designed to ensure clarity, reduce cognitive load, an
 
 ---
 
-# Hardware Architecture (Figure 6)
+# Hardware Architecture 
 
 ![Hardware Architecture](images/figure6_schematic.png)
 
