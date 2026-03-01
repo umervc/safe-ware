@@ -95,11 +95,14 @@ This trigger-based system reduces false positives while maintaining responsivene
 
 ---
 
-# Firmware
+## Repository Structure
+
+```
 SafeWare/
 └── SafeWare.ino
+```
 
-The firmware includes:
+The embedded code includes:
 
 - IMU initialization and calibration  
 - Real-time motion vector calculation  
