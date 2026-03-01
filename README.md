@@ -1,6 +1,8 @@
 # SafeWare  
 ## Wearable Fall Detection System for Independent Elderly Living
 
+![SafeWare Device](images/figure1_device.png)
+
 SafeWare is a wearable fall detection device developed in response to a growing demographic and healthcare challenge.
 
 By 2030, the number of people aged 75+ in the Netherlands is expected to increase significantly. At the same time, home-care services are under increasing pressure due to rising demand and healthcare costs. Many elderly individuals prefer to live independently, but falls remain one of the primary risks threatening safety and autonomy.
@@ -20,8 +22,6 @@ This project was developed at Eindhoven University of Technology as part of the 
 # Device Overview
 
 ## Wearable Design
-
-![Wearable Device](images/figure1_device.png)
 
 The device is waist-mounted and designed to be minimal, intuitive, and non-intrusive.
 
